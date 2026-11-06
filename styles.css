@@ -121,7 +121,6 @@ footer{background:#e8ddca;min-height:110px;display:flex;align-items:center;justi
 .portrait-card:hover img{transform:none}
 .portrait-card{transition:transform .3s ease,filter .3s ease}
 .portrait-card:hover{transform:translateY(-6px);filter:drop-shadow(0 12px 12px #4c362b2e)}
-.invitation-card .date-note{font:400 12px/1.5 "DM Sans",Arial,sans-serif!important;color:#d7b878!important;margin:0 0 23px!important;letter-spacing:.04em}
 .invitation-details>div{max-width:275px}
 .rsvp-contact{max-width:500px;padding:30px 22px}
 .rsvp-contact .contact-phone{display:block;min-height:31px;min-width:0;max-width:100%;margin-top:9px;padding-top:8px;border-top:1px solid #d8c6a5;color:#6d695d;font-size:14px;letter-spacing:.03em;overflow-wrap:anywhere}
@@ -164,7 +163,7 @@ footer{background:#e8ddca;min-height:110px;display:flex;align-items:center;justi
 .invitation-section>.invitation-card{box-shadow:0 25px 65px #27182866}
 .corner,.lamp{color:#edc6ce}.lamp{display:block;width:49px;height:49px;margin:8px auto 18px}
 .invitation-card .eyebrow,.invitation-details span{color:#efc6cd}.invitation-card h2 em{color:#f2c9d1}
-.invitation-card>p:not(.eyebrow){color:#f5e8ec}.invitation-card .date-note{color:#f0cbd3!important}
+.invitation-card>p:not(.eyebrow){color:#f5e8ec}
 .button,.button-light,.button-dark{border-radius:999px}.button-light{background:#fff8f6;color:#512e48}.button-light:hover{background:#f2dce3}
 .portrait-section{background:#fbf6f4}.portrait-heading>p{color:#6d5c68}
 .portrait-photo{background:transparent;border-radius:18px;overflow:hidden;box-shadow:0 12px 32px #6b40501a}
