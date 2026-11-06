@@ -1,0 +1,5 @@
+Mode: built-in image generation tool
+Input: assets/reception-v7.webp
+Output: assets/reception-v8.webp
+
+Use case: identity-preserve. Edit this exact wedding reception group photo. Make the groom, standing on the left of the bride in a dark green embroidered kurta, just a little broader across his shoulders, upper chest and upper arms, about 6–8 percent. Keep his stomach, belly and waist the same size as the input: no added belly volume, no rounded abdomen. Natural balanced proportions, not muscular or exaggerated. Preserve his face, facial identity, expression, beard, hair, head size and position exactly. Preserve the bride's entire appearance and position exactly. Retain both poses, clothing design, hands, watch, height, legs, venue, lighting, framing and left negative space. Only a subtle upper-body width adjustment for the groom. Output the same 1672 by 941 composition, photorealistic, no text.
